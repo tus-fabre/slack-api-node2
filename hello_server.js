@@ -4,7 +4,7 @@
  * [FILE] hello_server.js
  *
  * [DESCRIPTION]
- *  Lesson 1b - 環境変数を利用する
+ *  Lesson Node 2 - Node.jsで簡易なサーバーを実装する
  * 
  * [NOTE]
  */
