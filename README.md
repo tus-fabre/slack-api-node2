@@ -15,6 +15,7 @@
 1. helloサーバーを起動する
     $ node hello_server.js
 1. Webブラウザを開き、[http://localhost:8080]にアクセスする
-1. 環境変数NODE_ENVの値がdevelopmentのとき、変数responseの内容を出力することを確認する
-1. NODE_ENVの値をproductionに変えて実行すると、表示されない
+1. 環境変数NODE_ENVの値がdevelopmentのとき、変数responseの内容をコマンドプロンプト上に出力することを確認する
+1. コマンドプロンプト上でCtrl-Cを押してサーバーを停止する
+1. NODE_ENVの値をproductionに変えてサーバーを再起動し、Webブラウザでアクセスするとコマンドプロンプト上には表示されない
 1. PORTの値を変えてhelloサーバーを起動し、Webブラウザが指定したポート番号でアクセスできるか確認する
